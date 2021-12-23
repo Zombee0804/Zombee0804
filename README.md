@@ -6,4 +6,4 @@
 - I mainly use Github to showcase my work, or sync up work between devices
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombee0804&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zombee0804&theme=dark&hide=tcl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
